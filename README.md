@@ -17,4 +17,5 @@ The open source API that we are going to use for fishing the stock data is YFINA
 ![plot](./before.png)
 
 **After Improvement**
+With the help of RSI
 ![plot](./after.png)
