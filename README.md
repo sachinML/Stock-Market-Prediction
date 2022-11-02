@@ -6,7 +6,7 @@ The stock market is the collection of markets and exchanges where regular activi
 ## Dataset
 The open source API that we are going to use for fetching the stock data is YFINANCE, YFINANCE offers a reliable credit and Pythonic way to download historical market data from Yahoo! Finance.
 
-## Technologies used
+## Tech Stack used
 
 1. Prgramming Language - Python 3.8
 2. Libraries - Tensorflow 2.2, Plotly, Pandas.
