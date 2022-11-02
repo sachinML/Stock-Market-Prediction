@@ -18,4 +18,4 @@ The open source API that we are going to use for fetching the stock data is YFIN
 
 **Close Price prediction of the stock after using RSI indicator**
 With the help of RSI
-![plot](./after.png)
+![plot](./newplot2.png)
